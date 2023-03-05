@@ -589,7 +589,11 @@ a {
 }
 
 .social-media i {
-    color: #ff305b;
+    color: #fff;
     padding: 30px 10px;
     font-size: 16px;
+}
+
+.social-media i:hover {
+    color: #ff305b;
 }
